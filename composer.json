@@ -1,0 +1,15 @@
+{
+  "name": "chrogers/328/pets2",
+  "authors": [
+
+    {
+      "name": "Corey Rogers",
+      "email": "crogers25@mail.greenriver.edu"
+    }
+
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
